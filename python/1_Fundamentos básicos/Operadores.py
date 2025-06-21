@@ -1,3 +1,4 @@
+#fundamentos basicos 
 print("-"*30)
 #1. Operadores Aritméticos
 a = 10
